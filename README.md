@@ -2,3 +2,5 @@
 Second commit example
   
 Web-editor changes 2
+  
++ Local changes
